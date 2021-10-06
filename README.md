@@ -18,11 +18,11 @@
   <br>
 	 <a href="#normal">This is normal.</a>
 	 </div>
-  <br>
-	 <div id="suprise">
+  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+	 <div id="surprise">
 	 <p1>What the hell. The stickman is moving. Why is it moving. How. Where is this.</p1>
 	 </div>
-  <br>
+  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 	 <div id="normal">
 	 <p1>This is normal, you think. You wave to yourself in the mirror</p1>
 	 </div>
