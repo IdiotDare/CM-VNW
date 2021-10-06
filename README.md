@@ -66,7 +66,7 @@
 	 </div>
 	 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 	 <div id="acknowledge">
-	 <p3>Okay yeah this is not normal, but then, what is?</p3>
+	 <p3>Okay yeah this is not normal, but then, what is? Unknown variable, time to dig a hole. Hey, you're finally awake. Have a shovel.</p3>
 	 <br>
 	 <!--
 	 <a href="#"></a>
