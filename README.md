@@ -20,11 +20,58 @@
 	 </div>
   <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 	 <div id="surprise">
-	 <p1>What the hell. The stickman is moving. Why is it moving. How. Where is this.</p1>
+	 <p1>What the hell. The stickman is moving. Why is it moving. How. Where is this. You step back, and it...mirrors this.</p1>
+	 <a href="#shock2">What the f-</a>
+	 <br>
+	 <a href="#calm">"Oh. I see."</a>
 	 </div>
   <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 	 <div id="normal">
-	 <p1>This is normal, you think. You wave to yourself in the mirror</p1>
+	 <p1>This is normal, you think. You wave to yourself in the mirror. Wait, what?</p1>
+	 <a href="#ignore">Nevermind, it's nothing. Everything seems fine. Isn't it?</a>
+	 <br>
+	 <a href="#acknowledge">This is wrong.</a>
 	 </div>
+	 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+	 <div id="shock2">
+	 <p2></p>
+	 <!--
+	 <a href="#"></a>
+	 <br>
+	 <a href="#"></a>
+	 -->
+	 </div>
+	 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+	 <div id="calm">
+	 <p></p>
+	 <!--
+	 <a href="#"></a>
+	 <br>
+	 <a href="#"></a>
+	 -->
+	 </div>
+	 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+	 <div id="ignore">
+	 <p></p>
+	 <!--
+	 <a href="#"></a>
+	 <br>
+	 <a href="#"></a>
+	 -->
+	 </div>
+	 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+	 <div id="acknowledge">
+	 <p></p>
+	 <!--
+	 <a href="#"></a>
+	 <br>
+	 <a href="#"></a>
+	 -->
+	 </div>
+	 
+	 
+	 
+	 
+	 
 	 </body>
 </html>
