@@ -7,12 +7,12 @@
 <html>
     <head>
 	 <div id="c1summary">
-	   <p>You literally don't have even 1% planned out, what do you mean by summary? Just, I don't know, remind yourself stuff first.</p>
+	   <p1>You literally don't have even 1% planned out, what do you mean by summary? Just, I don't know, remind yourself stuff first.</p1>
 	 </div>
 	 </head>
 	 <body>
 	 <div id="c1p1">
-	 <p1>There is a stickman in front of you</p1>
+	 <p2>There is a stickman in front of you</p2>
   <br>
 	 <a href="#surprise">"What the-"</a>
   <br>
@@ -20,7 +20,7 @@
 	 </div>
   <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 	 <div id="surprise">
-	 <p1>What the hell. The stickman is moving. Why is it moving. How. Where is this. You step back, and it...mirrors this.</p1>
+	 <p2>What the hell. The stickman is moving. Why is it moving. How. Where is this. You step back, and it...mirrors this.</p2>
 	 <br>
 	 <a href="#shock2">What the f-</a>
 	 <br>
@@ -28,7 +28,7 @@
 	 </div>
   <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 	 <div id="normal">
-	 <p1>This is normal, you think. You wave to yourself in the mirror. Wait, what?</p1>
+	 <p2>This is normal, you think. You wave to yourself in the mirror. Wait, what?</p2>
 	 <br>
 	 <a href="#ignore">Nevermind, it's nothing. Everything seems fine. Isn't it?</a>
 	 <br>
@@ -36,7 +36,7 @@
 	 </div>
 	 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 	 <div id="shock2">
-	 <p2>Oh god, what am I. Oh god, is this in first or second person????????????? Help.</p2>
+	 <p3>Oh god, what am I. Oh god, is this in first or second person????????????? Help.</p3>
 	 <br>
 	 <!--
 	 <a href="#"></a>
@@ -46,7 +46,7 @@
 	 </div>
 	 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 	 <div id="calm">
-	 <p>Hmm. Okay lol.</p>
+	 <p3>Hmm. Okay lol.</p3>
 	 <br>
 	 <!--
 	 <a href="#"></a>
@@ -56,7 +56,7 @@
 	 </div>
 	 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 	 <div id="ignore">
-	 <p>Time to go about my day now haha.</p>
+	 <p3>Time to go about my day now haha.</p3>
 	 <br>
 	 <!--
 	 <a href="#"></a>
@@ -66,7 +66,7 @@
 	 </div>
 	 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 	 <div id="acknowledge">
-	 <p>Okay yeah this is not normal, but what is?</p>
+	 <p3>Okay yeah this is not normal, but then, what is?</p3>
 	 <br>
 	 <!--
 	 <a href="#"></a>
