@@ -3,6 +3,7 @@
 -->
 # CM-VNW
 
+
 <html>
     <head>
 	 <div id="c1summary">
@@ -11,19 +12,19 @@
 	 </head>
 	 <body>
 	 <div id="c1p1">
-	 <p1>There is a cat.</p1>
+	 <p1>There is a stickman in front of you</p1>
   <br>
-	 <a href="#ktc">Kick the cat</a>
+	 <a href="#surprise">"What the-"</a>
   <br>
-	 <a href="#etc">Eat the cat</a>
+	 <a href="#normal">This is normal.</a>
 	 </div>
   <br>
-	 <div id="ktc">
-	 <p2>You try to kick the cat and get bitten. You die. Because, I say so.</p2>
+	 <div id="suprise">
+	 <p1>What the hell. The stickman is moving. Why is it moving. How. Where is this.</p1>
 	 </div>
   <br>
-	 <div id="etc">
-	 <p3>You bite the cat. The cat bites you back. You die, because the cat bit you.</p3>
+	 <div id="normal">
+	 <p1>This is normal, you think. You wave to yourself in the mirror</p1>
 	 </div>
 	 </body>
 </html>
