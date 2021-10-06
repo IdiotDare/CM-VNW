@@ -36,7 +36,7 @@
 	 </div>
 	 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 	 <div id="shock2">
-	 <p2></p>
+	 <p2>Oh god, what am I. Oh god, is this in first or second person????????????? Help.</p2>
 	 <br>
 	 <!--
 	 <a href="#"></a>
@@ -46,7 +46,7 @@
 	 </div>
 	 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 	 <div id="calm">
-	 <p></p>
+	 <p>Hmm. Okay lol.</p>
 	 <br>
 	 <!--
 	 <a href="#"></a>
@@ -56,7 +56,7 @@
 	 </div>
 	 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 	 <div id="ignore">
-	 <p></p>
+	 <p>Time to go about my day now haha.</p>
 	 <br>
 	 <!--
 	 <a href="#"></a>
@@ -66,7 +66,7 @@
 	 </div>
 	 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 	 <div id="acknowledge">
-	 <p></p>
+	 <p>Okay yeah this is not normal, but what is?</p>
 	 <br>
 	 <!--
 	 <a href="#"></a>
@@ -74,10 +74,5 @@
 	 <a href="#"></a>
 	 -->
 	 </div>
-	 
-	 
-	 
-	 
-	 
 	 </body>
 </html>
